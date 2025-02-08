@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Fayispascon/leet_code/tree/master/0001-two-sum) |
+| [3429-special-array-i](https://github.com/Fayispascon/leet_code/tree/master/3429-special-array-i) |
 ## Hash Table
 |  |
 | ------- |
