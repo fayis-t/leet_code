@@ -12,12 +12,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Fayispascon/leet_code/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Fayispascon/leet_code/tree/master/0013-roman-to-integer) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Fayispascon/leet_code/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Fayispascon/leet_code/tree/master/0013-roman-to-integer) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Fayispascon/leet_code/tree/master/0026-remove-duplicates-from-sorted-array) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Fayispascon/leet_code/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
