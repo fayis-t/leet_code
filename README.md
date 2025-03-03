@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Fayispascon/leet_code/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Fayispascon/leet_code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Fayispascon/leet_code/tree/master/0027-remove-element) |
+| [0039-combination-sum](https://github.com/Fayispascon/leet_code/tree/master/0039-combination-sum) |
 | [0075-sort-colors](https://github.com/Fayispascon/leet_code/tree/master/0075-sort-colors) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Fayispascon/leet_code/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [3429-special-array-i](https://github.com/Fayispascon/leet_code/tree/master/3429-special-array-i) |
@@ -75,4 +76,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Fayispascon/leet_code/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/Fayispascon/leet_code/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
