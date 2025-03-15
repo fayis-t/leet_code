@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Fayispascon/leet_code/tree/master/0075-sort-colors) |
 | [0219-contains-duplicate-ii](https://github.com/Fayispascon/leet_code/tree/master/0219-contains-duplicate-ii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Fayispascon/leet_code/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2902-max-pair-sum-in-an-array](https://github.com/Fayispascon/leet_code/tree/master/2902-max-pair-sum-in-an-array) |
 | [3429-special-array-i](https://github.com/Fayispascon/leet_code/tree/master/3429-special-array-i) |
 ## Hash Table
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Fayispascon/leet_code/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Fayispascon/leet_code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0219-contains-duplicate-ii](https://github.com/Fayispascon/leet_code/tree/master/0219-contains-duplicate-ii) |
+| [2902-max-pair-sum-in-an-array](https://github.com/Fayispascon/leet_code/tree/master/2902-max-pair-sum-in-an-array) |
 ## Math
 |  |
 | ------- |
