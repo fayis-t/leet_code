@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Fayispascon/leet_code/tree/master/0219-contains-duplicate-ii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Fayispascon/leet_code/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2159-two-out-of-three](https://github.com/Fayispascon/leet_code/tree/master/2159-two-out-of-three) |
+| [2308-divide-array-into-equal-pairs](https://github.com/Fayispascon/leet_code/tree/master/2308-divide-array-into-equal-pairs) |
 | [2902-max-pair-sum-in-an-array](https://github.com/Fayispascon/leet_code/tree/master/2902-max-pair-sum-in-an-array) |
 | [3429-special-array-i](https://github.com/Fayispascon/leet_code/tree/master/3429-special-array-i) |
 ## Hash Table
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Fayispascon/leet_code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0219-contains-duplicate-ii](https://github.com/Fayispascon/leet_code/tree/master/0219-contains-duplicate-ii) |
 | [2159-two-out-of-three](https://github.com/Fayispascon/leet_code/tree/master/2159-two-out-of-three) |
+| [2308-divide-array-into-equal-pairs](https://github.com/Fayispascon/leet_code/tree/master/2308-divide-array-into-equal-pairs) |
 | [2902-max-pair-sum-in-an-array](https://github.com/Fayispascon/leet_code/tree/master/2902-max-pair-sum-in-an-array) |
 ## Math
 |  |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Fayispascon/leet_code/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2159-two-out-of-three](https://github.com/Fayispascon/leet_code/tree/master/2159-two-out-of-three) |
+| [2308-divide-array-into-equal-pairs](https://github.com/Fayispascon/leet_code/tree/master/2308-divide-array-into-equal-pairs) |
 ## Trie
 |  |
 | ------- |
@@ -91,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Fayispascon/leet_code/tree/master/0219-contains-duplicate-ii) |
+## Counting
+|  |
+| ------- |
+| [2308-divide-array-into-equal-pairs](https://github.com/Fayispascon/leet_code/tree/master/2308-divide-array-into-equal-pairs) |
 <!---LeetCode Topics End-->
