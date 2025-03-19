@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Fayispascon/leet_code/tree/master/0039-combination-sum) |
 | [0075-sort-colors](https://github.com/Fayispascon/leet_code/tree/master/0075-sort-colors) |
 | [0219-contains-duplicate-ii](https://github.com/Fayispascon/leet_code/tree/master/0219-contains-duplicate-ii) |
+| [1693-sum-of-all-odd-length-subarrays](https://github.com/Fayispascon/leet_code/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Fayispascon/leet_code/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2159-two-out-of-three](https://github.com/Fayispascon/leet_code/tree/master/2159-two-out-of-three) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Fayispascon/leet_code/tree/master/2308-divide-array-into-equal-pairs) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Fayispascon/leet_code/tree/master/0070-climbing-stairs) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Fayispascon/leet_code/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Fayispascon/leet_code/tree/master/1630-count-odd-numbers-in-an-interval-range) |
+| [1693-sum-of-all-odd-length-subarrays](https://github.com/Fayispascon/leet_code/tree/master/1693-sum-of-all-odd-length-subarrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -98,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2308-divide-array-into-equal-pairs](https://github.com/Fayispascon/leet_code/tree/master/2308-divide-array-into-equal-pairs) |
+## Prefix Sum
+|  |
+| ------- |
+| [1693-sum-of-all-odd-length-subarrays](https://github.com/Fayispascon/leet_code/tree/master/1693-sum-of-all-odd-length-subarrays) |
 <!---LeetCode Topics End-->
