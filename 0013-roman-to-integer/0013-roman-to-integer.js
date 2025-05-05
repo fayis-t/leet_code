@@ -22,4 +22,5 @@ var romanToInt = function(s) {
         }
     }
     return res + roman[s[s.length-1]];
+
 };
