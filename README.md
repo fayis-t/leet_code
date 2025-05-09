@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Fayispascon/leet_code/tree/master/0039-combination-sum) |
 | [0075-sort-colors](https://github.com/Fayispascon/leet_code/tree/master/0075-sort-colors) |
 | [0219-contains-duplicate-ii](https://github.com/Fayispascon/leet_code/tree/master/0219-contains-duplicate-ii) |
+| [1217-relative-sort-array](https://github.com/Fayispascon/leet_code/tree/master/1217-relative-sort-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Fayispascon/leet_code/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Fayispascon/leet_code/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2159-two-out-of-three](https://github.com/Fayispascon/leet_code/tree/master/2159-two-out-of-three) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Fayispascon/leet_code/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Fayispascon/leet_code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0219-contains-duplicate-ii](https://github.com/Fayispascon/leet_code/tree/master/0219-contains-duplicate-ii) |
+| [1217-relative-sort-array](https://github.com/Fayispascon/leet_code/tree/master/1217-relative-sort-array) |
 | [2159-two-out-of-three](https://github.com/Fayispascon/leet_code/tree/master/2159-two-out-of-three) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Fayispascon/leet_code/tree/master/2308-divide-array-into-equal-pairs) |
 | [2902-max-pair-sum-in-an-array](https://github.com/Fayispascon/leet_code/tree/master/2902-max-pair-sum-in-an-array) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Fayispascon/leet_code/tree/master/0075-sort-colors) |
+| [1217-relative-sort-array](https://github.com/Fayispascon/leet_code/tree/master/1217-relative-sort-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -108,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Fayispascon/leet_code/tree/master/1693-sum-of-all-odd-length-subarrays) |
+## Counting Sort
+|  |
+| ------- |
+| [1217-relative-sort-array](https://github.com/Fayispascon/leet_code/tree/master/1217-relative-sort-array) |
 <!---LeetCode Topics End-->
