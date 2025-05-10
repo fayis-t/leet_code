@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Fayispascon/leet_code/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Fayispascon/leet_code/tree/master/0039-combination-sum) |
 | [0075-sort-colors](https://github.com/Fayispascon/leet_code/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/Fayispascon/leet_code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Fayispascon/leet_code/tree/master/0219-contains-duplicate-ii) |
 | [1217-relative-sort-array](https://github.com/Fayispascon/leet_code/tree/master/1217-relative-sort-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Fayispascon/leet_code/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Fayispascon/leet_code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Fayispascon/leet_code/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Fayispascon/leet_code/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0217-contains-duplicate](https://github.com/Fayispascon/leet_code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Fayispascon/leet_code/tree/master/0219-contains-duplicate-ii) |
 | [1217-relative-sort-array](https://github.com/Fayispascon/leet_code/tree/master/1217-relative-sort-array) |
 | [2159-two-out-of-three](https://github.com/Fayispascon/leet_code/tree/master/2159-two-out-of-three) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Fayispascon/leet_code/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/Fayispascon/leet_code/tree/master/0217-contains-duplicate) |
 | [1217-relative-sort-array](https://github.com/Fayispascon/leet_code/tree/master/1217-relative-sort-array) |
 ## Backtracking
 |  |
