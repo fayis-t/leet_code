@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Fayispascon/leet_code/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2159-two-out-of-three](https://github.com/Fayispascon/leet_code/tree/master/2159-two-out-of-three) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Fayispascon/leet_code/tree/master/2308-divide-array-into-equal-pairs) |
+| [2502-sort-the-people](https://github.com/Fayispascon/leet_code/tree/master/2502-sort-the-people) |
 | [2902-max-pair-sum-in-an-array](https://github.com/Fayispascon/leet_code/tree/master/2902-max-pair-sum-in-an-array) |
 | [3429-special-array-i](https://github.com/Fayispascon/leet_code/tree/master/3429-special-array-i) |
 ## Hash Table
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/Fayispascon/leet_code/tree/master/1217-relative-sort-array) |
 | [2159-two-out-of-three](https://github.com/Fayispascon/leet_code/tree/master/2159-two-out-of-three) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Fayispascon/leet_code/tree/master/2308-divide-array-into-equal-pairs) |
+| [2502-sort-the-people](https://github.com/Fayispascon/leet_code/tree/master/2502-sort-the-people) |
 | [2902-max-pair-sum-in-an-array](https://github.com/Fayispascon/leet_code/tree/master/2902-max-pair-sum-in-an-array) |
 ## Math
 |  |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Fayispascon/leet_code/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Fayispascon/leet_code/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Fayispascon/leet_code/tree/master/0345-reverse-vowels-of-a-string) |
+| [2502-sort-the-people](https://github.com/Fayispascon/leet_code/tree/master/2502-sort-the-people) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Fayispascon/leet_code/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Fayispascon/leet_code/tree/master/0217-contains-duplicate) |
 | [1217-relative-sort-array](https://github.com/Fayispascon/leet_code/tree/master/1217-relative-sort-array) |
+| [2502-sort-the-people](https://github.com/Fayispascon/leet_code/tree/master/2502-sort-the-people) |
 ## Backtracking
 |  |
 | ------- |
