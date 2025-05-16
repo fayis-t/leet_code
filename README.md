@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Fayispascon/leet_code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0217-contains-duplicate](https://github.com/Fayispascon/leet_code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Fayispascon/leet_code/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Fayispascon/leet_code/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Fayispascon/leet_code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1217-relative-sort-array](https://github.com/Fayispascon/leet_code/tree/master/1217-relative-sort-array) |
 | [2159-two-out-of-three](https://github.com/Fayispascon/leet_code/tree/master/2159-two-out-of-three) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Fayispascon/leet_code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Fayispascon/leet_code/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Fayispascon/leet_code/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Fayispascon/leet_code/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Fayispascon/leet_code/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Fayispascon/leet_code/tree/master/0345-reverse-vowels-of-a-string) |
 | [2502-sort-the-people](https://github.com/Fayispascon/leet_code/tree/master/2502-sort-the-people) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Fayispascon/leet_code/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Fayispascon/leet_code/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Fayispascon/leet_code/tree/master/0242-valid-anagram) |
 | [1217-relative-sort-array](https://github.com/Fayispascon/leet_code/tree/master/1217-relative-sort-array) |
 | [2502-sort-the-people](https://github.com/Fayispascon/leet_code/tree/master/2502-sort-the-people) |
 ## Backtracking
