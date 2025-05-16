@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Fayispascon/leet_code/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Fayispascon/leet_code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1217-relative-sort-array](https://github.com/Fayispascon/leet_code/tree/master/1217-relative-sort-array) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Fayispascon/leet_code/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Fayispascon/leet_code/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Fayispascon/leet_code/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2159-two-out-of-three](https://github.com/Fayispascon/leet_code/tree/master/2159-two-out-of-three) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Fayispascon/leet_code/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/Fayispascon/leet_code/tree/master/0258-add-digits) |
 | [0371-sum-of-two-integers](https://github.com/Fayispascon/leet_code/tree/master/0371-sum-of-two-integers) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Fayispascon/leet_code/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Fayispascon/leet_code/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Fayispascon/leet_code/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Fayispascon/leet_code/tree/master/1693-sum-of-all-odd-length-subarrays) |
