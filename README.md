@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Fayispascon/leet_code/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Fayispascon/leet_code/tree/master/0039-combination-sum) |
 | [0075-sort-colors](https://github.com/Fayispascon/leet_code/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/Fayispascon/leet_code/tree/master/0118-pascals-triangle) |
 | [0217-contains-duplicate](https://github.com/Fayispascon/leet_code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Fayispascon/leet_code/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Fayispascon/leet_code/tree/master/0283-move-zeroes) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Fayispascon/leet_code/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Fayispascon/leet_code/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/Fayispascon/leet_code/tree/master/0118-pascals-triangle) |
 ## Memoization
 |  |
 | ------- |
