@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Fayispascon/leet_code/tree/master/0191-number-of-1-bits) |
 | [0371-sum-of-two-integers](https://github.com/Fayispascon/leet_code/tree/master/0371-sum-of-two-integers) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Fayispascon/leet_code/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2159-two-out-of-three](https://github.com/Fayispascon/leet_code/tree/master/2159-two-out-of-three) |
@@ -161,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Fayispascon/leet_code/tree/master/0258-add-digits) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Fayispascon/leet_code/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
