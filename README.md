@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Fayispascon/leet_code/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Fayispascon/leet_code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Fayispascon/leet_code/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/Fayispascon/leet_code/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Fayispascon/leet_code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1217-relative-sort-array](https://github.com/Fayispascon/leet_code/tree/master/1217-relative-sort-array) |
 | [2159-two-out-of-three](https://github.com/Fayispascon/leet_code/tree/master/2159-two-out-of-three) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Fayispascon/leet_code/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Fayispascon/leet_code/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Fayispascon/leet_code/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Fayispascon/leet_code/tree/master/0387-first-unique-character-in-a-string) |
 | [2502-sort-the-people](https://github.com/Fayispascon/leet_code/tree/master/2502-sort-the-people) |
 ## Bit Manipulation
 |  |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Fayispascon/leet_code/tree/master/0387-first-unique-character-in-a-string) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Fayispascon/leet_code/tree/master/2308-divide-array-into-equal-pairs) |
 ## Prefix Sum
 |  |
@@ -168,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Fayispascon/leet_code/tree/master/0191-number-of-1-bits) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Fayispascon/leet_code/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
